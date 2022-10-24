@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cts-kode =)
 - 👀 I’m interested in getting new knowledge and working out the material!
-- 🌱 I’m currently learning VSU SPO.
+- 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on with different sources of work, as well as the exchange of experience and training.
 - 📫 How to reach me (Access is currently closed =()
 In the process of studying. A new level is coming soon!
